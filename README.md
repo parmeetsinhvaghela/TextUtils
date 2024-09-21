@@ -14,6 +14,4 @@ TextUtils is a simple web application that allows you to manipulate and analyze 
 ## Technologies Used
 
 - HTML
-- CSS
-- JavaScript
-
+- Python
